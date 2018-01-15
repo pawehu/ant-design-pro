@@ -13,7 +13,7 @@ ReactDOM.render(
     <WaterWave
       height={161}
       title="补贴资金剩余"
-      percent={34}
+      percent={99}
     />
   </div>
 , mountNode);
